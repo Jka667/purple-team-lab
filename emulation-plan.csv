@@ -1,0 +1,5 @@
+detection_id,technique,test_name
+DET-0001,T1059.001,PowerShell Command Execution
+DET-0002,T1003.001,Dump LSASS.exe Memory using comsvcs.dll
+DET-0003,T1053.005,Scheduled Task Startup Script
+DET-0005,T1070.001,Clear Logs
